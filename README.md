@@ -1,9 +1,9 @@
 # BCC Internship 2020 DS
 
-Project on making machine learning algorithms from scratch using Python.
+All the codes are in ipynb file, so you will need to use either Jupyter Notebook, Google Colab, or any other means to properly open notebook file.
 
-## Group 4
+The rules of the project are inside the notebook.
+
+**Group 4**
 - R. Komang Eling Pramuatmaja
 - Firda Adha Cahyanti
-
-
